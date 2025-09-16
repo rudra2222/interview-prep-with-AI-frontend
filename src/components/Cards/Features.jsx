@@ -1,6 +1,6 @@
 import React from "react";
 import { data } from "../../utils/data";
-import Feature from "./feature";
+import Feature from "./Feature";
 
 const Features = ({ col, st, end }) => {
   const gridCols = {
