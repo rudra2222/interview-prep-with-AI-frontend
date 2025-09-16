@@ -34,5 +34,18 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.2.0",
     "vite": "^7.0.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudra2222/interview-prep-with-AI-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudra2222/interview-prep-with-AI-frontend/issues"
+  },
+  "homepage": "https://github.com/rudra2222/interview-prep-with-AI-frontend#readme"
 }
