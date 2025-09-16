@@ -7,7 +7,7 @@ import SpinnerLoader from "../../components/Loader/SpinnerLoader";
 import { toast } from "react-hot-toast";
 import DashboardLayout from "../../components/Layouts/DashboardLayout";
 import RoleInfoHeader from "./components/RoleInfoHeader";
-import axiosInstance from "../../utils/axiosInstance";
+import axiosInstance from "../../utils/axiosInstance.js";
 import { API_PATHS } from "../../utils/apiPaths";
 import QuestionCard from "../../components/Cards/QuestionCard";
 import AIResponsePreview from "./components/AIResponsePreview";
