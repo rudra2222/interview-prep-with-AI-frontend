@@ -36,8 +36,8 @@ const Dashboard = () => {
 
       toast.success("Session Deleted Successfully");
       setOpenDeleteAlert({
-        open:false,
-        data:null,
+        open: false,
+        data: null,
       });
       fetchAllSessions();
     } catch (err) {
